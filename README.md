@@ -1,0 +1,3 @@
+This is "Learning Log," a full-stack web application built with Python and Django. Developed as the primary project from the book "Python Crash Course, 3rd Edition," this application functions as a personal online journal where users can track topics they are learning about.
+
+The core purpose of this project was to build a complete, database-driven web application from the ground up, demonstrating a practical understanding of core back-end development principles. It showcases everything from database modeling to user authentication and data management.
