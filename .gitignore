@@ -1,12 +1,22 @@
 # Virtual Environment
 venv/
 env/
+ll_env/
 .env
 
 # Django
 db.sqlite3
 *.log
+staticfiles/
+media/
 
 # Python
 __pycache__/
 *.pyc
+
+# IDE / Editor Settings
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
