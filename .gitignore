@@ -17,6 +17,9 @@ __pycache__/
 # IDE / Editor Settings
 .vscode/
 
+# GitHub configuration
+.github/
+
 # Operating System
 .DS_Store
 Thumbs.db
